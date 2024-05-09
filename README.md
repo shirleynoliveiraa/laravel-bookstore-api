@@ -21,7 +21,7 @@ git clone https://github.com/your-username/bookstore-api.git
 ```
 2. Navigate to the project directory:
 ```bash
-cd bookstore-api
+cd laravel-bookstore-api
 ```
 3. Install Composer dependencies:
 ```bash
